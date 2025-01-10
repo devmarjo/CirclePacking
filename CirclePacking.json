@@ -1,0 +1,98 @@
+{
+  "name": "SEMESTRE",
+  "children": [
+    {
+      "name": "BIMESTRE",
+      "children": [
+        {
+          "name": "MES",
+          "children": [
+            {
+              "name": "SEMANA",
+              "children": []
+            },
+            {
+              "name": "SEMANA",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "MES",
+          "children": [
+            {
+              "name": "SEMANA",
+              "children": []
+            },
+            {
+              "name": "SEMANA",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BIMESTRE",
+      "children": [
+        {
+          "name": "MES",
+          "children": [
+            {
+              "name": "SEMANA",
+              "children": []
+            },
+            {
+              "name": "SEMANA",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "MES",
+          "children": [
+            {
+              "name": "SEMANA",
+              "children": []
+            },
+            {
+              "name": "SEMANA",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BIMESTRE",
+      "children": [
+        {
+          "name": "MES",
+          "children": [
+            {
+              "name": "SEMANA",
+              "children": []
+            },
+            {
+              "name": "SEMANA",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "MES",
+          "children": [
+            {
+              "name": "SEMANA",
+              "children": []
+            },
+            {
+              "name": "SEMANA",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
