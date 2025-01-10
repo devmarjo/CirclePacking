@@ -9,11 +9,13 @@
           "children": [
             {
               "name": "SEMANA",
-              "children": []
+              "children": [],
+              "size": 7
             },
             {
               "name": "SEMANA",
-              "children": []
+              "children": [],
+              "size": 7
             }
           ]
         },
@@ -22,11 +24,13 @@
           "children": [
             {
               "name": "SEMANA",
-              "children": []
+              "children": [],
+              "size": 7
             },
             {
               "name": "SEMANA",
-              "children": []
+              "children": [],
+              "size": 7
             }
           ]
         }
@@ -40,11 +44,13 @@
           "children": [
             {
               "name": "SEMANA",
-              "children": []
+              "children": [],
+              "size": 7
             },
             {
               "name": "SEMANA",
-              "children": []
+              "children": [],
+              "size": 7
             }
           ]
         },
@@ -53,11 +59,13 @@
           "children": [
             {
               "name": "SEMANA",
-              "children": []
+              "children": [],
+              "size": 7
             },
             {
               "name": "SEMANA",
-              "children": []
+              "children": [],
+              "size": 7
             }
           ]
         }
@@ -71,11 +79,13 @@
           "children": [
             {
               "name": "SEMANA",
-              "children": []
+              "children": [],
+              "size": 7
             },
             {
               "name": "SEMANA",
-              "children": []
+              "children": [],
+              "size": 7
             }
           ]
         },
@@ -84,11 +94,13 @@
           "children": [
             {
               "name": "SEMANA",
-              "children": []
+              "children": [],
+              "size": 7
             },
             {
               "name": "SEMANA",
-              "children": []
+              "children": [],
+              "size": 7
             }
           ]
         }
