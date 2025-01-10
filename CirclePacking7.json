@@ -1,0 +1,110 @@
+{
+  "name": "SEMESTRE",
+  "children": [
+    {
+      "name": "BIMESTRE",
+      "children": [
+        {
+          "name": "MES",
+          "children": [
+            {
+              "name": "SEMANA",
+              "children": [],
+              "size": 7
+            },
+            {
+              "name": "SEMANA",
+              "children": [],
+              "size": 7
+            }
+          ]
+        },
+        {
+          "name": "MES",
+          "children": [
+            {
+              "name": "SEMANA",
+              "children": [],
+              "size": 7
+            },
+            {
+              "name": "SEMANA",
+              "children": [],
+              "size": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BIMESTRE",
+      "children": [
+        {
+          "name": "MES",
+          "children": [
+            {
+              "name": "SEMANA",
+              "children": [],
+              "size": 7
+            },
+            {
+              "name": "SEMANA",
+              "children": [],
+              "size": 7
+            }
+          ]
+        },
+        {
+          "name": "MES",
+          "children": [
+            {
+              "name": "SEMANA",
+              "children": [],
+              "size": 7
+            },
+            {
+              "name": "SEMANA",
+              "children": [],
+              "size": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BIMESTRE",
+      "children": [
+        {
+          "name": "MES",
+          "children": [
+            {
+              "name": "SEMANA",
+              "children": [],
+              "size": 7
+            },
+            {
+              "name": "SEMANA",
+              "children": [],
+              "size": 7
+            }
+          ]
+        },
+        {
+          "name": "MES",
+          "children": [
+            {
+              "name": "SEMANA",
+              "children": [],
+              "size": 7
+            },
+            {
+              "name": "SEMANA",
+              "children": [],
+              "size": 7
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
